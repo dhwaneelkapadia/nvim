@@ -26,4 +26,4 @@ nvim
 - [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 - [ThePrimeagen's "Neovim from scratch" video](https://youtu.be/w7i4amO_zaE)
 - [devaslife's "Neovim for coding React..." video](https://youtu.be/ajmK0ZNcM4Q)
-- [SazedWorldbringer (original config)]((https://github.com/SazedWorldbringer/nvim)
+- [SazedWorldbringer (original config)](https://github.com/SazedWorldbringer/nvim)
